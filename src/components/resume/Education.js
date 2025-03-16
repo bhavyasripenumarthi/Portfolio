@@ -24,8 +24,8 @@ const Education = () => {
           />
           <ResumeCard
             title="BTech in Computer Science"
-            subTitle="GMRIT in Rajam (2016 - 2020)"
-            result="8.48/10 CGPA"
+            subTitle="SVECW (2016 - 2020)"
+            result="8.98/10 CGPA"
             des="Studied IT related subjects like Operating Systems, DBMS, OOPS, ML, Web Development, AI, DSA, Compiler Design etc."
           />
           <ResumeCard
@@ -36,7 +36,7 @@ const Education = () => {
           />
           <ResumeCard
             title="Primary & Secondary School Education"
-            subTitle="Sri Chaitanya Techno School(2002-2014)"
+            subTitle="ROOTS SCHOOL (2002-2014)"
             result="9.8/10"
             des="Studied in this school from Nursery to 10th std. SSC Subjects: English, Hindi, Telugu, Maths, Science, Social Sciences."
           />

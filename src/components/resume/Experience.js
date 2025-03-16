@@ -16,27 +16,33 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Graduate Software Engineer"
-            subTitle="Developer - (08/2022-Ongoing) at Georgia State University"
+            title="Software Engineer II"
+            subTitle="Developer - (04/2024-Ongoing) at Service Now"
             result="Atlanta"
             des="Developing Responsive Applications using React,React Native & Spring Boot"
           />
           <ResumeCard
-            title="System Engineer"
-            subTitle="Digital Team -(08/2020-08/2022) [2 Years] at TataConsultancyServices(Apple GBI)"
+            title="System Developer Intern"
+            subTitle="Payroll Innovation Team -(05/2023-12/2023) [6 Months] at TataConsultancyServices(Apple GBI)"
             result="Hyderabad,India"
             des="Developed API'S using NodeJS & GraphQL and handled the front end using React & Redux"
           />
           <ResumeCard
-            title="Associate Software Engineer"
-            subTitle="Developer - (06/2019 - 07/2020)  [1 Year] at InnovaSolutions"
-            result="Hyderabad,India"
+            title="Graduate Research Assistant"
+            subTitle="Developer - (01/2023 - 01/2024)  [1 Year] at Georgia State University"
+            result="Atlanta,GA"
             des="Developed Restful API's and Integrated the Node.js and Nest.js Applications with various databases including both SQL & NoSQL"
           />
             <ResumeCard
-            title="Trainee Software Engineer"
-            subTitle="Developer - (06/2017 - 07/2018)  [1 Year] at Tammina Infotech"
-            result="Vizag,India"
+            title="Senior Full Stack Developer"
+            subTitle="Developer - (01/2022 - 08/2022)  [1 Year] at Bank of New York Mellon"
+            result="Chennai,India"
+            des="Developed Ruby on Rails Applications by ensuring efficient data flow"
+          />  
+              <ResumeCard
+            title="Junior Software Developer"
+            subTitle="Developer - (01/2022 - 08/2022)  [1 Year] at EPAM Systems"
+            result="Hyderabad,India"
             des="Developed Ruby on Rails Applications by ensuring efficient data flow"
           />  
         </div>
