@@ -10,15 +10,15 @@ const Media = () => {
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">
-            <a href="https://github.com/Bulliswami" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/bhavyasripenumarthi" target="_blank" rel="noopener noreferrer">
               <SiGithub /></a>
             </span>
             <span className="bannerIcon">
-            <a href="mailto:bulliswami.goluguri@gmail.com">
+            <a href="mailto:bhavya11penumarthi@gmail.com">
               <SiGmail /></a>
             </span>
             <span className="bannerIcon">
-            <a href="https://www.linkedin.com/in/bulli-swami-reddy-goluguri-2b8a17228/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/bhavya-penumarthi/" target="_blank" rel="noopener noreferrer">
               <FaLinkedinIn /></a>
             </span>
           </div>

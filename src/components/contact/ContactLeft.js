@@ -20,28 +20,28 @@ const ContactLeft = () => {
         I am a passionate MERN stack developer and machine learning enthusiast. With a strong foundation in web development and a keen eye for data, I create innovative solutions that bridge technology and user experience. 
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+1 404-567-3540</span>
+          Phone: <span className="text-lightText">+91 949092679946</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">bulliswami.goluguri@gmail.com</span>
+          Email: <span className="text-lightText">bhavya11penumarthi@gmail.com</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Github: <span className="text-lightText">https://github.com/Bulliswami</span>
+          Github: <span className="text-lightText">https://github.com/bhavyasripenumarthi</span>
         </p>
       </div>
       <div className="flex flex-col gap-0">
         <h2 className="text-base uppercase font-titleFont mb-4">Find me on</h2>
         <div className="flex gap-4">
           <span className="bannerIcon">
-          <a href="https://github.com/Bulliswami" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/bhavyasripenumarthi" target="_blank" rel="noopener noreferrer">
             <SiGithub /></a>
           </span>
           <span className="bannerIcon">
-          <a href="mailto:bulliswami.goluguri@gmail.com">
+          <a href="mailto:bhavya11penumarthi@gmail.com">
             <SiGmail /></a>
           </span>
           <span className="bannerIcon">
-          <a href="https://www.linkedin.com/in/bulli-swami-reddy-goluguri-2b8a17228/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/bhavya-penumarthi/" target="_blank" rel="noopener noreferrer">
             <FaLinkedinIn /></a>
           </span>
         </div>
